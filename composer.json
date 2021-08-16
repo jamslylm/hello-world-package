@@ -1,0 +1,11 @@
+{
+    "name": "jamslylovemine/hello-world-package",
+    "description": "A hello world composer private package!",
+    "autoload": {
+        "psr-4" : {
+            "jamslylovemine\\HelloWorldPackage\\": "src/"
+        }
+    },
+    "minimun-stability": "dev",
+    "prefer-stable": "true",
+}

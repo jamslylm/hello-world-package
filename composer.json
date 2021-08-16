@@ -6,6 +6,6 @@
             "jamslylovemine\\HelloWorldPackage\\": "src/"
         }
     },
-    "minimun-stability": "dev",
-    "prefer-stable": "true"
+    "minimun-stability": "",
+    "prefer-stable": ""
 }

@@ -1,6 +1,7 @@
 {
-    "name": "jamslylovemine/hello-world-package",
+    "name": "jamslylm/hello-world-package",
     "description": "A hello world composer private package!",
+    "License" : "MIT",
     "autoload": {
         "psr-4" : {
             "jamslylovemine\\HelloWorldPackage\\": "src/"
